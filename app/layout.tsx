@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "Sports",
   description: "Sports is atheltes manegment app",
   icons: {
-    icon: '/images/pfp.png'
+    icon: '/assets/images/pfp.png'
   }
 };
 
